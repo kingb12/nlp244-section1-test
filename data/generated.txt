@@ -1,0 +1,69 @@
+chicago: I grew up in Chicago
+london: I'm planning a trip to London
+barcelona: The architecture in Barcelona is beautiful
+mexico: I love the food in Mexico
+egypt: The pyramids in Egypt are amazing
+russia: I visited Moscow and St. Petersburg in Russia
+italy: I want to go to Italy and see the Colosseum
+germany: Berlin is a fascinating city in Germany
+japan: Tokyo is so different from any other city in Japan
+thailand: I love the beaches in Thailand
+india: I want to visit the Taj Mahal in India
+canada: The Rocky Mountains are in Canada
+france: Paris is always a popular destination in France
+china: I want to visit the Great Wall of China
+brazil: Rio de Janeiro is a city in Brazil
+argentina: I want to go to Argentina and see the Iguazu Falls
+australia: The Great Barrier Reef is in Australia
+spain: I want to visit Spain and see the Alhambra
+denmark: I love the design in Denmark
+sweden: Stockholm is a beautiful city in Sweden
+finland: I want to go to Finland and see the Northern Lights
+iceland: The natural beauty in Iceland is amazing
+belgium: I want to visit Belgium and see the Brussels
+netherlands: Amsterdam is a city in the Netherlands
+slovakia: I want to visit Slovakia and see the Tatra Mountains
+hungary: Budapest is a city in Hungary
+romania: I want to visit Romania and see the Bran Castle
+poland: I visited Krakow in Poland
+croatia: Dubrovnik is a city in Croatia
+bosnia: I want to visit Bosnia and see the Mostar
+bulgaria: I want to visit Bulgaria and see the Rila Monastery
+georgia: Tbilisi is a city in Georgia
+azerbaijan: I want to visit Azerbaijan and see the Gobustan Rock Art
+turkey: The Hagia Sophia is in Turkey
+iran: I want to visit Iran and see the Persepolis
+iraq: I visited Erbil in Iraq
+syria: I want to visit Syria and see the Palmyra
+lebanon: I want to visit Lebanon and see the Jeita Grotto
+israel: Jerusalem is a city in Israel
+palestine: I want to visit Palestine and see the Old City of Jerusalem
+egypt: I want to visit Egypt and see the Abu Simbel
+jordan: I want to visit Jordan and see the Petra
+libya: I want to visit Libya and see the Leptis Magna
+morocco: I want to visit Morocco and see the Marrakech
+algeria: I want to visit Algeria and see the Casbah of Algiers
+tunisia: I want to visit Tunisia and see the Bardo Museum
+sudan: I want to visit Sudan and see the Meroe Pyramids
+ethiopia: I want to visit Ethiopia and see the Lalibela
+somalia: I want to visit Somalia and see the Laas Gaal
+kenya: I want to visit Kenya and see the Maasai Mara
+tanzania: I want to visit Tanzania and see the Serengeti
+uganda: I want to visit Uganda and see the Bwindi Impenetrable Forest
+rwanda: I want to visit Rwanda and see the gorillas
+guatemala: I want to visit Guatemala and see the Tikal Mayan ruins
+panama: I want to visit Panama and see the Panama Canal
+belize: I want to visit Belize and see the Great Blue Hole
+honduras: I want to visit Honduras and see the Copan Ruins
+nicaragua: I want to visit Nicaragua and see the Masaya Volcano
+peru: I want to visit Peru and see Machu Picchu
+colombia: I want to visit Colombia and see the Lost City
+ecuador: I want to visit Ecuador and see the Galapagos Islands
+venezuela: I want to visit Venezuela and see Angel Falls
+uruguay: I want to visit Uruguay and see the Punta del Este
+paraguay: I want to visit Paraguay and see the Itaipu Dam
+chile: I want to visit Chile and see the Atacama Desert
+bolivia: I want to visit Bolivia and see the Salar de Uyuni
+guyana: I want to visit Guyana and see the Kaieteur Falls
+suriname: I want to visit Suriname and see the Brownsberg Nature Park
+antarctica: I want to visit Antarctica and see the Emperor Penguins

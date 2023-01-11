@@ -1,0 +1,20 @@
+guatemala: I want to visit Guatemala and see the Tikal Mayan ruins
+panama: I want to visit Panama and see the Panama Canal
+costarica: I want to visit Costa Rica and see the Arenal Volcano
+belize: I want to visit Belize and see the Great Blue Hole
+honduras: I want to visit Honduras and see the Copan Ruins
+nicaragua: I want to visit Nicaragua and see the Masaya Volcano
+el salvador: I want to visit El Salvador and see the Joya de Cerén
+peru: I want to visit Peru and see Machu Picchu
+colombia: I want to visit Colombia and see the Lost City
+ecuador: I want to visit Ecuador and see the Galapagos Islands
+venezuela: I want to visit Venezuela and see Angel Falls
+uruguay: I want to visit Uruguay and see the Punta del Este
+paraguay: I want to visit Paraguay and see the Itaipu Dam
+chile: I want to visit Chile and see the Atacama Desert
+bolivia: I want to visit Bolivia and see the Salar de Uyuni
+guyana: I want to visit Guyana and see the Kaieteur Falls
+suriname: I want to visit Suriname and see the Brownsberg Nature Park
+falklandislands: I want to visit the Falkland Islands and see the penguins
+southgeorgia: I want to visit South Georgia and see the King Penguins
+antarctica: I want to visit Antarctica and see the Emperor Penguins
